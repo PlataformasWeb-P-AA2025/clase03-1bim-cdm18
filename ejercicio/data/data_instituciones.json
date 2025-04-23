@@ -1,7 +1,7 @@
 [
   {
     "AMIE": "08H02231",
-    "Nombre-Educativa": "8 DE SEPTIEMBRE",
+    "Nombre": "8 DE SEPTIEMBRE",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -19,7 +19,7 @@
   },
   {
     "AMIE": "08H02177",
-    "Nombre-Educativa": "ECO-MUNDO",
+    "Nombre": "ECO-MUNDO",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -37,7 +37,7 @@
   },
   {
     "AMIE": "08H02186",
-    "Nombre-Educativa": "ARTESANAL MODA ACTUAL",
+    "Nombre": "ARTESANAL MODA ACTUAL",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -55,7 +55,7 @@
   },
   {
     "AMIE": "08H01156",
-    "Nombre-Educativa": "CENTRO DE FORMACION ARTESANAL 21 DE SEPTIEMBRE",
+    "Nombre": "CENTRO DE FORMACION ARTESANAL 21 DE SEPTIEMBRE",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -73,7 +73,7 @@
   },
   {
     "AMIE": "08H01161",
-    "Nombre-Educativa": "FREDESULINDA ROSERO  DE  PÁEZ",
+    "Nombre": "FREDESULINDA ROSERO  DE  PÁEZ",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -91,7 +91,7 @@
   },
   {
     "AMIE": "08H01127",
-    "Nombre-Educativa": "CENTRO OCUPASIONAL POPULAR NUEVA CONCORDIA",
+    "Nombre": "CENTRO OCUPASIONAL POPULAR NUEVA CONCORDIA",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -109,7 +109,7 @@
   },
   {
     "AMIE": "08H01132",
-    "Nombre-Educativa": "COLEGIO JUAN MONTALVO",
+    "Nombre": "COLEGIO JUAN MONTALVO",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -127,7 +127,7 @@
   },
   {
     "AMIE": "08H01134",
-    "Nombre-Educativa": "DAVID AUSUBEL",
+    "Nombre": "DAVID AUSUBEL",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -145,7 +145,7 @@
   },
   {
     "AMIE": "08H01136",
-    "Nombre-Educativa": "AGUSTIN OCAMPO SANTANDER",
+    "Nombre": "AGUSTIN OCAMPO SANTANDER",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -163,7 +163,7 @@
   },
   {
     "AMIE": "08H01137",
-    "Nombre-Educativa": "ESCUELA MARICELA LOOR DE ALAVA",
+    "Nombre": "ESCUELA MARICELA LOOR DE ALAVA",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -181,7 +181,7 @@
   },
   {
     "AMIE": "08H01144",
-    "Nombre-Educativa": "DOCTOR ANDRES F CORDOVA",
+    "Nombre": "DOCTOR ANDRES F CORDOVA",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -199,7 +199,7 @@
   },
   {
     "AMIE": "08H01145",
-    "Nombre-Educativa": "BENITO JUAREZ",
+    "Nombre": "BENITO JUAREZ",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -217,7 +217,7 @@
   },
   {
     "AMIE": "08H01148",
-    "Nombre-Educativa": "JHON DALTON",
+    "Nombre": "JHON DALTON",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -235,7 +235,7 @@
   },
   {
     "AMIE": "08H01152",
-    "Nombre-Educativa": "UNIDAD EDUCATIVA VON HUMBOLDT",
+    "Nombre": "UNIDAD EDUCATIVA VON HUMBOLDT",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -253,7 +253,7 @@
   },
   {
     "AMIE": "08H01155",
-    "Nombre-Educativa": "10   DE  AGOSTO",
+    "Nombre": "10   DE  AGOSTO",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -271,7 +271,7 @@
   },
   {
     "AMIE": "08H01159",
-    "Nombre-Educativa": "MARIA ANTONIETA CRUZ LOPEZ",
+    "Nombre": "MARIA ANTONIETA CRUZ LOPEZ",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -289,7 +289,7 @@
   },
   {
     "AMIE": "08H01160",
-    "Nombre-Educativa": "8 DE SEPTIEMBRE",
+    "Nombre": "8 DE SEPTIEMBRE",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -307,7 +307,7 @@
   },
   {
     "AMIE": "08H01172",
-    "Nombre-Educativa": "ESCUELA MIRIAN HERAS CEVALLOS",
+    "Nombre": "ESCUELA MIRIAN HERAS CEVALLOS",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -325,7 +325,7 @@
   },
   {
     "AMIE": "08H01177",
-    "Nombre-Educativa": "CIUDAD DE QUINIDE",
+    "Nombre": "CIUDAD DE QUINIDE",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -343,7 +343,7 @@
   },
   {
     "AMIE": "08H01124",
-    "Nombre-Educativa": "ESC. SIMON BOLIVAR",
+    "Nombre": "ESC. SIMON BOLIVAR",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -361,7 +361,7 @@
   },
   {
     "AMIE": "08H01129",
-    "Nombre-Educativa": "COLEGIO LUZ DEL EVANGELIO",
+    "Nombre": "COLEGIO LUZ DEL EVANGELIO",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -379,7 +379,7 @@
   },
   {
     "AMIE": "23H00301",
-    "Nombre-Educativa": "SERGIO NUÑEZ",
+    "Nombre": "SERGIO NUÑEZ",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -397,7 +397,7 @@
   },
   {
     "AMIE": "23H00380",
-    "Nombre-Educativa": "DR JOSE  GREGORIO HERNANDEZ  CISNEROS",
+    "Nombre": "DR JOSE  GREGORIO HERNANDEZ  CISNEROS",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -415,7 +415,7 @@
   },
   {
     "AMIE": "08H01164",
-    "Nombre-Educativa": "TECNICO AGROPECUARIO NUEVA CONCORDIA",
+    "Nombre": "TECNICO AGROPECUARIO NUEVA CONCORDIA",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -433,7 +433,7 @@
   },
   {
     "AMIE": "08H02139",
-    "Nombre-Educativa": "LUIS BECERRA ",
+    "Nombre": "LUIS BECERRA ",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "MONTERREY",
@@ -451,7 +451,7 @@
   },
   {
     "AMIE": "08H02143",
-    "Nombre-Educativa": "MIGUEL RIOFRIO",
+    "Nombre": "MIGUEL RIOFRIO",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "MONTERREY",
@@ -469,7 +469,7 @@
   },
   {
     "AMIE": "08H02156",
-    "Nombre-Educativa": "JUAN HARO ROSERO",
+    "Nombre": "JUAN HARO ROSERO",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "MONTERREY",
@@ -487,7 +487,7 @@
   },
   {
     "AMIE": "08H02159",
-    "Nombre-Educativa": "INSTITUTO DE EDUCACION ESPECIAL CORAZONES VALIENTES ",
+    "Nombre": "INSTITUTO DE EDUCACION ESPECIAL CORAZONES VALIENTES ",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "MONTERREY",
@@ -505,7 +505,7 @@
   },
   {
     "AMIE": "08H02082",
-    "Nombre-Educativa": "EDMUNDO BASTIDAS ARGUELLO ",
+    "Nombre": "EDMUNDO BASTIDAS ARGUELLO ",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA VILLEGAS",
@@ -523,7 +523,7 @@
   },
   {
     "AMIE": "08H02083",
-    "Nombre-Educativa": "CIUDAD DE QUEVEDO",
+    "Nombre": "CIUDAD DE QUEVEDO",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA VILLEGAS",
@@ -541,7 +541,7 @@
   },
   {
     "AMIE": "08H02085",
-    "Nombre-Educativa": "26 DE NOVIEMBRE",
+    "Nombre": "26 DE NOVIEMBRE",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "MONTERREY",
@@ -559,7 +559,7 @@
   },
   {
     "AMIE": "08H01475",
-    "Nombre-Educativa": "TACITO ORTIZ URRIOLA",
+    "Nombre": "TACITO ORTIZ URRIOLA",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "MONTERREY",
@@ -577,7 +577,7 @@
   },
   {
     "AMIE": "08H01069",
-    "Nombre-Educativa": "ESCUELA CARLOS GARBAY MONTESDEOCA",
+    "Nombre": "ESCUELA CARLOS GARBAY MONTESDEOCA",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA VILLEGAS",
@@ -595,7 +595,7 @@
   },
   {
     "AMIE": "08H01073",
-    "Nombre-Educativa": "GUSTAVO BECERRA ORTIZ",
+    "Nombre": "GUSTAVO BECERRA ORTIZ",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA VILLEGAS",
@@ -613,7 +613,7 @@
   },
   {
     "AMIE": "08H01078",
-    "Nombre-Educativa": "AMIGUITOS DE LA INFANCIA",
+    "Nombre": "AMIGUITOS DE LA INFANCIA",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "MONTERREY",
@@ -631,7 +631,7 @@
   },
   {
     "AMIE": "08H01079",
-    "Nombre-Educativa": "DR RICARDO PAREDES ROMERO",
+    "Nombre": "DR RICARDO PAREDES ROMERO",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA VILLEGAS",
@@ -649,7 +649,7 @@
   },
   {
     "AMIE": "08H01081",
-    "Nombre-Educativa": "VICTOR MANUEL VILLEGAS PLAZA",
+    "Nombre": "VICTOR MANUEL VILLEGAS PLAZA",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA VILLEGAS",
@@ -667,7 +667,7 @@
   },
   {
     "AMIE": "08H01105",
-    "Nombre-Educativa": "ESCUELA SAGRADOS CORAZONES",
+    "Nombre": "ESCUELA SAGRADOS CORAZONES",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "MONTERREY",
@@ -685,7 +685,7 @@
   },
   {
     "AMIE": "08H01106",
-    "Nombre-Educativa": "ANTONIO ALOMIA LLORY",
+    "Nombre": "ANTONIO ALOMIA LLORY",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA VILLEGAS",
@@ -703,7 +703,7 @@
   },
   {
     "AMIE": "08H01112",
-    "Nombre-Educativa": "ESCUELA TIERRA ESMERALDEÑA",
+    "Nombre": "ESCUELA TIERRA ESMERALDEÑA",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "MONTERREY",
@@ -721,7 +721,7 @@
   },
   {
     "AMIE": "08H01567",
-    "Nombre-Educativa": "MANUELA CANIZARES",
+    "Nombre": "MANUELA CANIZARES",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "MONTERREY",
@@ -739,7 +739,7 @@
   },
   {
     "AMIE": "13H04690",
-    "Nombre-Educativa": "CIUDAD DE CUENCA",
+    "Nombre": "CIUDAD DE CUENCA",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "MONTERREY",
@@ -757,7 +757,7 @@
   },
   {
     "AMIE": "23H00359",
-    "Nombre-Educativa": "REPUBLICA DE PORTUGAL",
+    "Nombre": "REPUBLICA DE PORTUGAL",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "MONTERREY",
@@ -775,7 +775,7 @@
   },
   {
     "AMIE": "23H00360",
-    "Nombre-Educativa": "JOSE DE LA CRUZ",
+    "Nombre": "JOSE DE LA CRUZ",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA VILLEGAS",
@@ -793,7 +793,7 @@
   },
   {
     "AMIE": "23H00550",
-    "Nombre-Educativa": "SAN MIGUEL DE GUABAL",
+    "Nombre": "SAN MIGUEL DE GUABAL",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "MONTERREY",
@@ -811,7 +811,7 @@
   },
   {
     "AMIE": "23H00552",
-    "Nombre-Educativa": "FUERTE MILITAR ATAHUALPA",
+    "Nombre": "FUERTE MILITAR ATAHUALPA",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "MONTERREY",
@@ -829,7 +829,7 @@
   },
   {
     "AMIE": "23H00573",
-    "Nombre-Educativa": "ISLA FERNANDINA",
+    "Nombre": "ISLA FERNANDINA",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "MONTERREY",
@@ -847,7 +847,7 @@
   },
   {
     "AMIE": "23H00361",
-    "Nombre-Educativa": "JOAQUIN GALLEGOS LARA",
+    "Nombre": "JOAQUIN GALLEGOS LARA",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "MONTERREY",
@@ -865,7 +865,7 @@
   },
   {
     "AMIE": "08H01808",
-    "Nombre-Educativa": "HECTOR ERAZO",
+    "Nombre": "HECTOR ERAZO",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -883,7 +883,7 @@
   },
   {
     "AMIE": "08H02101",
-    "Nombre-Educativa": "ABOGADO JAIME ROLDOS AGUILERA",
+    "Nombre": "ABOGADO JAIME ROLDOS AGUILERA",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -901,7 +901,7 @@
   },
   {
     "AMIE": "08H02184",
-    "Nombre-Educativa": "5 DE SEPTIEMBRE ",
+    "Nombre": "5 DE SEPTIEMBRE ",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -919,7 +919,7 @@
   },
   {
     "AMIE": "08H01133",
-    "Nombre-Educativa": "CENTRO DE FORMACION ARTESANAL PARTICULAR 5 DE AGOSTO",
+    "Nombre": "CENTRO DE FORMACION ARTESANAL PARTICULAR 5 DE AGOSTO",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -937,7 +937,7 @@
   },
   {
     "AMIE": "08H01131",
-    "Nombre-Educativa": "PROVINCIA DE ESMERALDAS",
+    "Nombre": "PROVINCIA DE ESMERALDAS",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -955,7 +955,7 @@
   },
   {
     "AMIE": "17H02580",
-    "Nombre-Educativa": "ADALBERTO ORTIZ QUIÑONEZ",
+    "Nombre": "ADALBERTO ORTIZ QUIÑONEZ",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -973,7 +973,7 @@
   },
   {
     "AMIE": "08H01142",
-    "Nombre-Educativa": "CARLOS MARIA DE LA CONDAMINE",
+    "Nombre": "CARLOS MARIA DE LA CONDAMINE",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -991,7 +991,7 @@
   },
   {
     "AMIE": "08H01162",
-    "Nombre-Educativa": "COLEGIO PARTICULAR ECUADOR",
+    "Nombre": "COLEGIO PARTICULAR ECUADOR",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1009,7 +1009,7 @@
   },
   {
     "AMIE": "08H01163",
-    "Nombre-Educativa": "CANADIENSE",
+    "Nombre": "CANADIENSE",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1027,7 +1027,7 @@
   },
   {
     "AMIE": "08H01166",
-    "Nombre-Educativa": "17 DE OCTUBRE",
+    "Nombre": "17 DE OCTUBRE",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1045,7 +1045,7 @@
   },
   {
     "AMIE": "08H01167",
-    "Nombre-Educativa": "DR. JULIO PLAZA LEDESMA",
+    "Nombre": "DR. JULIO PLAZA LEDESMA",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1063,7 +1063,7 @@
   },
   {
     "AMIE": "08H01168",
-    "Nombre-Educativa": "CENTRO EDUCATIVO DE LAS AMÉRICAS",
+    "Nombre": "CENTRO EDUCATIVO DE LAS AMÉRICAS",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1081,7 +1081,7 @@
   },
   {
     "AMIE": "08H01173",
-    "Nombre-Educativa": "HECTOR  ALMEIDA",
+    "Nombre": "HECTOR  ALMEIDA",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1099,7 +1099,7 @@
   },
   {
     "AMIE": "08H01174",
-    "Nombre-Educativa": "LUIS VARGAS TORRES",
+    "Nombre": "LUIS VARGAS TORRES",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1117,7 +1117,7 @@
   },
   {
     "AMIE": "08H01176",
-    "Nombre-Educativa": "UNIDAD EDUCATIVA PARTICULAR CATOLICA SAGRADOS CORAZONES",
+    "Nombre": "UNIDAD EDUCATIVA PARTICULAR CATOLICA SAGRADOS CORAZONES",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1135,7 +1135,7 @@
   },
   {
     "AMIE": "08H01180",
-    "Nombre-Educativa": "EDUCACION ESPECIAL ENRIQUE BARTOLUCCI",
+    "Nombre": "EDUCACION ESPECIAL ENRIQUE BARTOLUCCI",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1153,7 +1153,7 @@
   },
   {
     "AMIE": "08H01181",
-    "Nombre-Educativa": "UNIDAD EDUCATIVA  PARTICULAR EVANGÉLICA LUZ Y LIBERTAD",
+    "Nombre": "UNIDAD EDUCATIVA  PARTICULAR EVANGÉLICA LUZ Y LIBERTAD",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1171,7 +1171,7 @@
   },
   {
     "AMIE": "08H01128",
-    "Nombre-Educativa": "ESCUELA  MUNDO INFANTIL Y COLEGIO ESPAÑOL",
+    "Nombre": "ESCUELA  MUNDO INFANTIL Y COLEGIO ESPAÑOL",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1189,7 +1189,7 @@
   },
   {
     "AMIE": "08H01130",
-    "Nombre-Educativa": "LUIS OLMEDO MUÑOZ BOLAÑOS",
+    "Nombre": "LUIS OLMEDO MUÑOZ BOLAÑOS",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1207,7 +1207,7 @@
   },
   {
     "AMIE": "17H02621",
-    "Nombre-Educativa": "ANGEL POLIVIO CHAVEZ",
+    "Nombre": "ANGEL POLIVIO CHAVEZ",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1225,7 +1225,7 @@
   },
   {
     "AMIE": "23H00281",
-    "Nombre-Educativa": "CARLOS BECDACH",
+    "Nombre": "CARLOS BECDACH",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1243,7 +1243,7 @@
   },
   {
     "AMIE": "23H00312",
-    "Nombre-Educativa": "UNICEF",
+    "Nombre": "UNICEF",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1261,7 +1261,7 @@
   },
   {
     "AMIE": "23H00317",
-    "Nombre-Educativa": "EDUARDO LUGO",
+    "Nombre": "EDUARDO LUGO",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1279,7 +1279,7 @@
   },
   {
     "AMIE": "23H00323",
-    "Nombre-Educativa": "CIUDAD DE MADRID",
+    "Nombre": "CIUDAD DE MADRID",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1297,7 +1297,7 @@
   },
   {
     "AMIE": "23H00353",
-    "Nombre-Educativa": "PLAN PILOTO",
+    "Nombre": "PLAN PILOTO",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1315,7 +1315,7 @@
   },
   {
     "AMIE": "23H00364",
-    "Nombre-Educativa": "5 DE SEPTIEMBRE",
+    "Nombre": "5 DE SEPTIEMBRE",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1333,7 +1333,7 @@
   },
   {
     "AMIE": "23H00382",
-    "Nombre-Educativa": "PROVINCIA DE PICHINCHA",
+    "Nombre": "PROVINCIA DE PICHINCHA",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1351,7 +1351,7 @@
   },
   {
     "AMIE": "23H00394",
-    "Nombre-Educativa": "JOSE LUIS ALFARO",
+    "Nombre": "JOSE LUIS ALFARO",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1369,7 +1369,7 @@
   },
   {
     "AMIE": "23H00680",
-    "Nombre-Educativa": "SANTA TERESITA",
+    "Nombre": "SANTA TERESITA",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1387,7 +1387,7 @@
   },
   {
     "AMIE": "23H00458",
-    "Nombre-Educativa": "28 DE SEPTIEMBRE",
+    "Nombre": "28 DE SEPTIEMBRE",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1405,7 +1405,7 @@
   },
   {
     "AMIE": "08H01169",
-    "Nombre-Educativa": "ROSA ZARATE",
+    "Nombre": "ROSA ZARATE",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1423,7 +1423,7 @@
   },
   {
     "AMIE": "08H01182",
-    "Nombre-Educativa": "LA CONCORDIA",
+    "Nombre": "LA CONCORDIA",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1441,7 +1441,7 @@
   },
   {
     "AMIE": "08H01493",
-    "Nombre-Educativa": "CENTRO DE FORMACION ARTESANAL 8 DE SEPTIEMBRE",
+    "Nombre": "CENTRO DE FORMACION ARTESANAL 8 DE SEPTIEMBRE",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1459,7 +1459,7 @@
   },
   {
     "AMIE": "08H02237",
-    "Nombre-Educativa": "REPUBLICA DE HOLANDA",
+    "Nombre": "REPUBLICA DE HOLANDA",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1477,7 +1477,7 @@
   },
   {
     "AMIE": "08H02250",
-    "Nombre-Educativa": "LATINOAMERICANO",
+    "Nombre": "LATINOAMERICANO",
     "Provincia": "ESMERALDAS",
     "Canton": "LA CONCORDIA",
     "Parroquia": "LA CONCORDIA",
@@ -1495,7 +1495,7 @@
   },
   {
     "AMIE": "13H03753",
-    "Nombre-Educativa": "12 DE OCTUBRE",
+    "Nombre": "12 DE OCTUBRE",
     "Provincia": "MANABI",
     "Canton": "24 DE MAYO",
     "Parroquia": "BELLAVISTA",
@@ -1513,7 +1513,7 @@
   },
   {
     "AMIE": "13H03823",
-    "Nombre-Educativa": "CENTRO DE EDUCACION BASICA 21 DE NOVIEMBRE",
+    "Nombre": "CENTRO DE EDUCACION BASICA 21 DE NOVIEMBRE",
     "Provincia": "MANABI",
     "Canton": "24 DE MAYO",
     "Parroquia": "ARQ. SIXTO DURAN BALLEN",
@@ -1531,7 +1531,7 @@
   },
   {
     "AMIE": "13H03828",
-    "Nombre-Educativa": "CARLOS HERNANDEZ HIDALGO",
+    "Nombre": "CARLOS HERNANDEZ HIDALGO",
     "Provincia": "MANABI",
     "Canton": "24 DE MAYO",
     "Parroquia": "ARQ. SIXTO DURAN BALLEN",
@@ -1549,7 +1549,7 @@
   },
   {
     "AMIE": "13H03829",
-    "Nombre-Educativa": "NUEVA ESPERANZA",
+    "Nombre": "NUEVA ESPERANZA",
     "Provincia": "MANABI",
     "Canton": "24 DE MAYO",
     "Parroquia": "ARQ. SIXTO DURAN BALLEN",
@@ -1567,7 +1567,7 @@
   },
   {
     "AMIE": "13H03832",
-    "Nombre-Educativa": "1 DE OCTUBRE",
+    "Nombre": "1 DE OCTUBRE",
     "Provincia": "MANABI",
     "Canton": "24 DE MAYO",
     "Parroquia": "ARQ. SIXTO DURAN BALLEN",
@@ -1585,7 +1585,7 @@
   },
   {
     "AMIE": "13H03807",
-    "Nombre-Educativa": "3 DE OCTUBRE",
+    "Nombre": "3 DE OCTUBRE",
     "Provincia": "MANABI",
     "Canton": "24 DE MAYO",
     "Parroquia": "ARQ. SIXTO DURAN BALLEN",
@@ -1603,7 +1603,7 @@
   },
   {
     "AMIE": "13H03808",
-    "Nombre-Educativa": "RICARDO CHAVEZ MACIAS",
+    "Nombre": "RICARDO CHAVEZ MACIAS",
     "Provincia": "MANABI",
     "Canton": "24 DE MAYO",
     "Parroquia": "ARQ. SIXTO DURAN BALLEN",
@@ -1621,7 +1621,7 @@
   },
   {
     "AMIE": "13H03812",
-    "Nombre-Educativa": "25 DE JUNIO",
+    "Nombre": "25 DE JUNIO",
     "Provincia": "MANABI",
     "Canton": "24 DE MAYO",
     "Parroquia": "ARQ. SIXTO DURAN BALLEN",
@@ -1639,7 +1639,7 @@
   },
   {
     "AMIE": "13H03813",
-    "Nombre-Educativa": "JOSE MARIA VELASCO IBARRA",
+    "Nombre": "JOSE MARIA VELASCO IBARRA",
     "Provincia": "MANABI",
     "Canton": "24 DE MAYO",
     "Parroquia": "ARQ. SIXTO DURAN BALLEN",
@@ -1657,7 +1657,7 @@
   },
   {
     "AMIE": "13H03817",
-    "Nombre-Educativa": "JUAN MONTALVO",
+    "Nombre": "JUAN MONTALVO",
     "Provincia": "MANABI",
     "Canton": "24 DE MAYO",
     "Parroquia": "ARQ. SIXTO DURAN BALLEN",
@@ -1675,7 +1675,7 @@
   },
   {
     "AMIE": "13H03821",
-    "Nombre-Educativa": "MARIA BRIGIDA VILLEGAS LASCANO",
+    "Nombre": "MARIA BRIGIDA VILLEGAS LASCANO",
     "Provincia": "MANABI",
     "Canton": "24 DE MAYO",
     "Parroquia": "ARQ. SIXTO DURAN BALLEN",
@@ -1693,7 +1693,7 @@
   },
   {
     "AMIE": "13H03816",
-    "Nombre-Educativa": "CENTRO DE EDUCACION LAS MERCEDES",
+    "Nombre": "CENTRO DE EDUCACION LAS MERCEDES",
     "Provincia": "MANABI",
     "Canton": "24 DE MAYO",
     "Parroquia": "ARQ. SIXTO DURAN BALLEN",
@@ -1711,7 +1711,7 @@
   },
   {
     "AMIE": "13H03736",
-    "Nombre-Educativa": "10 DE JUNIO",
+    "Nombre": "10 DE JUNIO",
     "Provincia": "MANABI",
     "Canton": "24 DE MAYO",
     "Parroquia": "ARQ. SIXTO DURAN BALLEN",
@@ -1729,7 +1729,7 @@
   },
   {
     "AMIE": "13H03768",
-    "Nombre-Educativa": "ANTONIO JOSE DE SUCRE",
+    "Nombre": "ANTONIO JOSE DE SUCRE",
     "Provincia": "MANABI",
     "Canton": "24 DE MAYO",
     "Parroquia": "ARQ. SIXTO DURAN BALLEN",
@@ -1747,7 +1747,7 @@
   },
   {
     "AMIE": "13H04086",
-    "Nombre-Educativa": "DANIEL MOREIRA",
+    "Nombre": "DANIEL MOREIRA",
     "Provincia": "MANABI",
     "Canton": "24 DE MAYO",
     "Parroquia": "ARQ. SIXTO DURAN BALLEN",
@@ -1765,7 +1765,7 @@
   },
   {
     "AMIE": "13H04741",
-    "Nombre-Educativa": "ELOY ALFARO DELGADO",
+    "Nombre": "ELOY ALFARO DELGADO",
     "Provincia": "MANABI",
     "Canton": "24 DE MAYO",
     "Parroquia": "ARQ. SIXTO DURAN BALLEN",

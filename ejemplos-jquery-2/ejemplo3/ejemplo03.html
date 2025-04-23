@@ -19,7 +19,7 @@
       $( "#obtenerInformacion" ).click(function() {
             $.ajax({
               dataType: 'json',
-              url: url 
+              url: url
             }).then(function(data) {
               for(var i=0; i<data.length; i++){
                 console.log(data[i]);
@@ -27,9 +27,9 @@
                 console.log(data[i].Name);
                 $('#mensajeFinal').append("<p> <b>Código:</b> "+ data[i].Code + " <b>Nombre:</b> " + data[i].Name + "</p>");
               }
-            });      
+            });
       });
-      
+
       $( "#limpiarInformacion" ).click(function() {
           $('#mensajeFinal').empty();
       });
